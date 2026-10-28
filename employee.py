@@ -6,7 +6,7 @@ if __name__=="__main__":
     name=sys.argv[1]
     employee_id=sys.argv[2]
     department=sys.argv[3]
-    salary=sys.arg[4]
+    salary=sys.argv[4]
 
     print("\n Employee Details")
     print("---------------------")
